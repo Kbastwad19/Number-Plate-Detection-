@@ -57,11 +57,11 @@ python license_plate_detection.py
 
 ###The script will:
 
--Load the image and convert it to grayscale
--Apply Canny edge detection to find contours
--Identify a rectangular contour as the potential license plate
--Preprocess the license plate region (thresholding, noise reduction)
--Extract text using Tesseract OCR
--Display three windows: the original image, the detected license plate, and the final image with a bounding box and extracted text
--Print the detected license plate text to the console
+-Load the image and convert it to grayscale.
+-Apply Canny edge detection to find contours.
+-Identify a rectangular contour as the potential license plate.
+-Preprocess the license plate region (thresholding, noise reduction).
+-Extract text using Tesseract OCR.
+-Display three windows: the original image, the detected license plate, and the final image with a bounding box and extracted text.
+-Print the detected license plate text to the console.
 -Press any key to close the image windows.
