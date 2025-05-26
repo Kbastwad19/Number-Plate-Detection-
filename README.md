@@ -55,7 +55,7 @@ image = cv2.imread('your_image.jpg')
 python license_plate_detection.py
 ```
 
-###The script will:
+### The script will:
 
 -Load the image and convert it to grayscale.
 -Apply Canny edge detection to find contours.
